@@ -17,4 +17,6 @@ With a background in mechanical engineering, I am currently self-studying comput
 * Exploring signal processing and embedded machine learning for gesture recognition.
 
 #### 📊 GitHub Stats
-[![MrNanliu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrNanliu&show_icons=true&theme=transparent&hide_border=true&title_color=007D55)](https://github.com/MrNanliu)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrNanliu&show_icons=true&theme=transparent&hide_border=true&title_color=007D55" alt="MrNanliu's GitHub Stats" />
+</p>
