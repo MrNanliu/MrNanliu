@@ -1,16 +1,19 @@
-## Hi there 👋
+### WELCOME 👋
 
-<!--
-**MrNanliu/MrNanliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With a background in mechanical engineering, I am currently self-studying computer science to build integrated systems.
 
-Here are some ideas to get you started:
+#### 🛠️ Tech Stack & Tools
+* **Languages:** Python, C/C++
+* **Hardware & Embedded:** ESP32, PlatformIO
+* **Robotics & Simulation:** ROS2, MuJoCo
+* **Algorithms & Core Concepts:** Pathfinding (A*), Network Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Current Focus
+* Developing an sEMG-Based Bionic Hand Control System.
+* Integrating professional-grade muscle sensors with open-source robotic hardware.
+* Exploring signal processing and embedded machine learning for gesture recognition.
+
+#### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrNanliu&show_icons=true&theme=transparent&hide_border=true&title_color=007D55" alt="MrNanliu's GitHub Stats" />
+</p>
