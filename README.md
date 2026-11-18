@@ -7,10 +7,10 @@ CAD and structural / fluid analysis on one side; embedded firmware, sensing and 
 
 <table>
   <tr>
-    <td width="150">
+    <td width="165">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/hku-logo-dark.svg">
-        <img src="assets/hku-logo-light.svg" alt="The University of Hong Kong" height="32">
+        <source media="(prefers-color-scheme: dark)" srcset="assets/hku-white.png">
+        <img src="assets/hku-black.png" alt="The University of Hong Kong" height="30">
       </picture>
     </td>
     <td>
@@ -20,8 +20,11 @@ CAD and structural / fluid analysis on one side; embedded firmware, sensing and 
     <td width="110" align="right">2025 – 2026</td>
   </tr>
   <tr>
-    <td width="150">
-      <img src="assets/manchester-logo.png" alt="The University of Manchester" height="32">
+    <td width="165">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/uom-white.png">
+        <img src="assets/uom-black.png" alt="The University of Manchester" height="36">
+      </picture>
     </td>
     <td>
       <b>MEng Mechanical Engineering</b><br>
