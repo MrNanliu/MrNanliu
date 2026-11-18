@@ -7,7 +7,7 @@ CAD and structural / fluid analysis on one side; embedded firmware, sensing and 
 
 <table>
   <tr>
-    <td width="165">
+    <td width="165" align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/hku-white.png">
         <img src="assets/hku-black.png" alt="The University of Hong Kong" height="30">
@@ -20,7 +20,7 @@ CAD and structural / fluid analysis on one side; embedded firmware, sensing and 
     <td width="110" align="right">2025 – 2026</td>
   </tr>
   <tr>
-    <td width="165">
+    <td width="165" align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/uom-white.png">
         <img src="assets/uom-black.png" alt="The University of Manchester" height="36">
